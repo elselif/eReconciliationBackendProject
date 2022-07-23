@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RPR1/89B9KMCZ6TLht0PikDwMgwgnxTpRQQbNm9GDCwFw9mRQJgznPfBvryJRqMCYkR2Oj4n+0Pvz9CcgThOGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\90551\\source\\repos\\EFCore\\eReconciliationBackendProject\\WebApi\\WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\90551\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\90551\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\90551\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\90551\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\90551\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\90551\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
