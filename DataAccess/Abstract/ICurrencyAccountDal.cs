@@ -8,11 +8,7 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Abstract
 {
-    // ICompanyDal --> kurallara uygun
-    public interface ICompanyDal : IEntityRepository<Company>
+    internal interface ICurrencyAccountDal : IEntityRepository<Currency>
     {
-     
     }
 }
-
-
