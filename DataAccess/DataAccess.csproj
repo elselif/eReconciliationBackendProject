@@ -8,7 +8,7 @@
 
   <ItemGroup>
     <Folder Include="Abstract\" />
-    <Folder Include="Concreate\" />
+    <Folder Include="Concreate\EntityFramewok\" />
   </ItemGroup>
 
 </Project>
